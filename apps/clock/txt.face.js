@@ -18,12 +18,10 @@
       g.setFontAlign(0,0);
       g.setFont("Vector",44);
       var txt = convert(d.getHours());
-      g.drawString(txt.top,120,60);
+      g.drawString("gwr",120,60);
       g.drawString(txt.bot,120,100);
       txt = convert(d.getMinutes());
       g.drawString(txt.top,120,140);
-      g.setFont("Vector",20);
-      g.drawString("gwr",10,180);
     }
 
   function onSecond(){
