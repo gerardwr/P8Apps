@@ -1,5 +1,7 @@
-NOTE : This repository is forked from https://github.com/jeffmer/P8Apps
-After forking the content of this repository has changed, for the original version go to the link above
+NOTE : This repository is forked from https://github.com/jeffmer/P8Apps.
+
+After forking the content of the above repo, the content of this forked repository has changed, for the original version go to the link above
+
 All credits for the excellent work go to @jeffmer
 ========================================================================
 
