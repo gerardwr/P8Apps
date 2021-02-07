@@ -23,7 +23,7 @@
       txt = convert(d.getMinutes());
       g.drawString(txt.top,120,140);
       g.setFont("Vector",20);
-      g.drawString("gwr",0,160);
+      g.drawString("gwr",10,180);
     }
 
   function onSecond(){
