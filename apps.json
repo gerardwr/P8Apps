@@ -70,11 +70,11 @@
     "type":"clock",
     "allow_emulator":false,
     "storage": [
-      {"name":"clock.app.js","url":"clock.app.js"},
+      {"name":"clockgwr.app.js","url":"clock.appgwr.js"},
       {"name":"big.face.js","url":"big.face.js"},
       {"name":"ana.face.js","url":"ana.face.js"},
       {"name":"digi.face.js","url":"digi.face.js"},
-      {"name":"txt.face.js","url":"txt.face.js"},
+      {"name":"txtgwr.face.js","url":"txtgwr.face.js"},
       {"name":"dk.face.js","url":"dk.face.js"},
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
