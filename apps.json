@@ -70,7 +70,7 @@
     "type":"clock",
     "allow_emulator":false,
     "storage": [
-      {"name":"clockgwr.app.js","url":"clock.appgwr.js"},
+      {"name":"clockgwr.app.js","url":"clockgwr.app.js"},
       {"name":"big.face.js","url":"big.face.js"},
       {"name":"ana.face.js","url":"ana.face.js"},
       {"name":"digi.face.js","url":"digi.face.js"},
