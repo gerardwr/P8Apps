@@ -61,24 +61,6 @@
       {"name":"clock.img","url":"clock-icon.js","evaluate":true }
     ]
   },
-    { "id": "clockgwr",
-    "name": "Clockgwr",
-    "icon": "clock.png",
-    "version":"0.01",
-    "description": "Clock adapted by gwr with multiple faces - Big, Analogue, Digital, Text.\n Switch between faces with swipe left right",
-    "tags": "clock",
-    "type":"clock",
-    "allow_emulator":false,
-    "storage": [
-      {"name":"clockgwr.app.js","url":"clockgwr.app.js"},
-      {"name":"big.face.js","url":"big.face.js"},
-      {"name":"ana.face.js","url":"ana.face.js"},
-      {"name":"digi.face.js","url":"digi.face.js"},
-      {"name":"txtgwr.face.js","url":"txtgwr.face.js"},
-      {"name":"dk.face.js","url":"dk.face.js"},
-      {"name":"clock.img","url":"clock-icon.js","evaluate":true }
-    ]
-  },
     { "id": "life",
     "name": "Life",
     "icon": "life.png",
